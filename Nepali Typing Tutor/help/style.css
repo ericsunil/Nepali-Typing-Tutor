@@ -1,0 +1,46 @@
+body
+{
+	background:pink;
+	font-family:arial;
+}
+
+h3
+{
+	padding-bottom:0px;
+	text-decoration:inherit;
+	color:red;
+}
+
+#main
+{
+	background:white;
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	min-width:600px;
+	overflow:hidden;
+}
+
+#left
+{
+	float:left;
+	width:20%;
+	background:grey;
+	height:300px;
+}
+
+li
+{
+	text-decoration:none;
+	margin:auto;
+	list-style:none;
+	color:red;
+}
+
+ul a:hover
+{
+	cursor:pointer;
+	font-size:20px;
+	text-decoration:underline;
+	color:green;
+}
